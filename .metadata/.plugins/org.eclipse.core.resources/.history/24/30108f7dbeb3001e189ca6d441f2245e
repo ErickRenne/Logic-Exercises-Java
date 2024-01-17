@@ -1,0 +1,25 @@
+
+public class MassaCorpórea {
+	private int idade;
+	private float altura;
+	private float peso;
+	private boolean genero;
+	private float resultado;
+	
+	public MassaCorpórea(int peso, int altura) {
+		this.peso = peso;
+		this.altura = altura;
+	}
+	
+	
+	public float IMC() {
+		resultado = (altura*2)/peso;
+		return resultado;
+	}
+
+	@Override
+	public String toString() {
+		return "MassaCorpórea [resultado=" + resultado + "]";
+	}
+	
+}

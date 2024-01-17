@@ -1,0 +1,7 @@
+
+public class Resultado {
+	public static void main(String[]args) {
+		MassaCorpórea mc = new MassaCorpórea(100,170);
+		mc.IMC();
+	}
+}

@@ -1,0 +1,14 @@
+
+public class MassaCorpórea {
+	private int idade;
+	private int altura;
+	private boolean genero;
+	private int resultado;
+	
+	public int IMC() {
+		
+		
+		return altura;
+		
+	}
+}

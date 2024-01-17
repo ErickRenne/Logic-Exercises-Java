@@ -1,0 +1,16 @@
+
+public class MassaCorpórea {
+	private int idade;
+	private int altura;
+	private int peso;
+	private boolean genero;
+	private int resultado;
+	
+	public int IMC() {
+		
+		resultado = (altura*2)/peso;
+		
+		return altura;
+		
+	}
+}

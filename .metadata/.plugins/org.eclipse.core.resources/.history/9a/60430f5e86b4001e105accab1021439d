@@ -1,0 +1,10 @@
+
+public class Resultado {
+	public static void main(String[]args) {
+		CalcIMC cm = new CalcIMC();
+		
+		cm.dados(100D, 170D);
+		
+		System.out.println(mc.toString());
+	}
+}

@@ -1,0 +1,8 @@
+
+public class Resultado {
+	public static void main(String[]args) {
+		CalcIMC cm = new CalcIMC(100,170);
+		
+		System.out.println(mc.toString());
+	}
+}

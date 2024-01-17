@@ -1,0 +1,18 @@
+
+public class MassaCorpórea {
+	private int idade;
+	private int altura;
+	private int peso;
+	private boolean genero;
+	private int resultado;
+	
+	public int IMC() {
+		resultado = (altura*2)/peso;
+		return resultado;
+	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return resultado
+	}
+}

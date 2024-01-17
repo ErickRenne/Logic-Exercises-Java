@@ -1,0 +1,6 @@
+
+public class MassaCorpórea {
+	private int idade;
+	private int altura;
+	private boolean genero;
+}
