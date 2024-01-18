@@ -3,5 +3,8 @@
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="MassaCorpórea"/>
     <fullyQualifiedTypeName name="CalcIMC"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="CalcNota"/>
     <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.lang.EnumConstantNotPresentException"/>
 </qualifiedTypeNameHistroy>
