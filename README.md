@@ -1,0 +1,1 @@
+Alguns projetos utilizam telas para torná-lo mais dinâmico, mas não é um projeto grande porque criar telas em Java é um pouco complicado. Lembrando que estou utilizando o WindowBuilder, que facilita a criação de telas.
